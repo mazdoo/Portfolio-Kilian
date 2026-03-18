@@ -1,5 +1,0 @@
-{
-    "nom": "Sonia",
-    "age": 25,
-    "ville": "Rennes"
-}
