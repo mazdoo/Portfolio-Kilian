@@ -1,0 +1,4 @@
+Python est simple.
+Python est utile.
+Python permet de lire des fichiers txt et json.
+Le langage Python est pratique.
